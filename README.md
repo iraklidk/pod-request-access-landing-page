@@ -25,7 +25,7 @@ Screenshot 3 Mobile - https://ibb.co/G2C6t66
 
 ### Links
 
-- Live Site URL: https://iraklido.github.io/pod-request-access-landing-page/
+- Live Site URL: https://iraklidk.github.io/pod-request-access-landing-page/
 
 ### Built with
 
